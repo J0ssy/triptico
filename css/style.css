@@ -1,0 +1,65 @@
+.encabezado {
+	width: 534px;
+	height: 35px;
+	overflow: auto;
+	border: 1px solid #000;
+	text-align: center;
+	background-color: #ffc107;
+}
+
+.triptico {
+	height: 402px;
+	border: 1px solid #000;
+	text-align: center;
+	float: left;
+
+}
+
+.centro {
+	width: 220px;
+}
+
+.lado {
+	width: 155px;
+}
+
+.abajo {
+	width: 534px; 
+	height: 26px;
+	overflow: auto;
+	border: 1px solid #000;
+	text-align: center;
+	margin: 404px 0;
+	background-color: #ffc107;
+}
+
+.imagen {
+	width: 155px;
+	height: 155px;
+}
+
+.imagen2 {
+	width: 125px;
+	height: 120px;
+}
+
+.text {
+	text-align : justify;
+	margin: 7px;
+	padding: 10px;
+	font-size: 15px;
+}
+
+.text-encabezado {
+	font-size: 18px;
+	margin: 6px;
+}
+
+h1 {
+	font-size: 22px;
+	margin: 30px;
+}
+
+.text-abajo {
+	margin: 4px;
+}
